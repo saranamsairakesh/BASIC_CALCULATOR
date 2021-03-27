@@ -1,5 +1,7 @@
 echo "Welcome to Coding"
-fno1=1
+fno1=3
 fno2=2
 sum=$(($fno1+$fno2))
+diff=$(($fno1-$fno2))
 echo "Sum= "$sum
+echo "Diff= "$diff
